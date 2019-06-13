@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootEurekaClientTwo
+Implementation-Version: 1.0
+Built-By: Sidharth
+Implementation-Vendor-Id: com.sidharth.eureka
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootEurekaClientTwo
+Created-By: Maven Integration for Eclipse
+
